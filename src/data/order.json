@@ -1,0 +1,26 @@
+[
+	{
+		"order_sn": "3265492394023",
+		"order_img": "./src/assets/images/6.png",
+		"goods_name": "贵妃笑 100克333",
+		"order_number": 233,
+		"order_amount": 5880,
+		"pay_status": 1
+	},
+	{
+		"order_sn": "66763424324",
+		"order_img": "./src/assets/images/5.png",
+		"goods_name": "贵妃笑 100克444",
+		"order_number": 57,
+		"order_amount": 6688,
+		"pay_status": 2
+	},
+	{
+		"order_sn": "87434235879",
+		"order_img": "./src/assets/images/4.png",
+		"goods_name": "贵妃笑 100克5555",
+		"order_number": 12,
+		"order_amount": 999,
+		"pay_status": 1
+	}
+]
